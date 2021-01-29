@@ -1,7 +1,8 @@
 # Aws CI/CD Lambda Deployment using AWSCI/CD
 Utilizes CodePipeline, CodeBuild, CodeDeploy, and Cloudformation to configure a Safe Lambda Deployment.
 
-# https://github.com/rhdmchirag/LambdaawsCICDwithBluegreenDeployment/blob/master/infrastructure.png
+![alt text](https://github.com/rhdmchirag/LambdaawsCICDwithBluegreenDeployment/blob/master/infrastructure.png?raw=true)
+https://github.com/rhdmchirag/LambdaawsCICDwithBluegreenDeployment/blob/master/infrastructure.png
 
 
 
